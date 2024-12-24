@@ -1,0 +1,59 @@
+projectName: >-
+  List of all the cybersecurity monitoring resources with explanation on how to
+  use these to monitor news and get ahead from your competition
+jsonFilePath: ./input.json
+baseUrl: https://gracker.ai
+portalHeading: Cybersecurity Monitoring Resources
+portalDescription: >-
+  A comprehensive list of cybersecurity monitoring resources to help you stay
+  ahead in your field.
+portalTitle: Cybersecurity Monitoring Hub
+searchPlaceholder: Search cybersecurity resources...
+useAlphabetsCategory: true
+homeLink: https://gracker.ai/
+logoLink: https://gracker.ai/
+ctaText: Get Started
+aboutLink: https://gracker.ai/about
+productsLink: https://gracker.ai/products
+logoImgUrl: https://gracker.ai/logo.png
+ctaLink: https://gracker.ai/get-started
+copyrightText: © 2024 Gracker AI. All rights reserved.
+faviconUrl: https://gracker.ai/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/grackerai
+  - platform: LinkedIn
+    url: https://linkedin.com/company/grackerai
+  - platform: Facebook
+    url: https://facebook.com/grackerai
+theme:
+  primaryColor: '#0044cc'
+  secondaryColor: '#00cc44'
+  backgroundColor: '#f4f4f4'
+  textColor: '#333333'
+  accentColor: '#ffcc00'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto
+    weights:
+      - 500
+      - 600
+      - 700
